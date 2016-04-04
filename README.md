@@ -1,2 +1,2 @@
 # TestGitHub
-Github Tutorial I am Learning gitub
+Is a repository i created when i was learning github for the first time 
